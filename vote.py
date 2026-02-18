@@ -7,4 +7,4 @@ if age >= 18:
 else:
     print("You are not eligible to vote")
 
-print("Thank you!!")
+print("Thank you!")
