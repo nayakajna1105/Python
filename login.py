@@ -1,4 +1,4 @@
-print("Login System")
+print("Login")
 
 username = input("Enter username: ")
 password = input("Enter password: ")
