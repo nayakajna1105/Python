@@ -1,4 +1,4 @@
-print(" Login System ")
+print(" Login ")
 
 # correct details
 correct_username = "admin"
